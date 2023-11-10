@@ -2,7 +2,7 @@
 // @name         Move IMDB Ratings to the Bottom of the Page
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Moves the IMDB score to the bottom of the page. Stop judging movies and/or TV shows by their ratings!
+// @description  Moves the IMDB score to the bottom of the page. Don't judge movies and/or TV shows by their ratings, and form your own opinion instead.
 // @author       evkaw
 // @match        https://www.imdb.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=imdb.com
