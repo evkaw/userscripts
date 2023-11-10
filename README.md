@@ -22,7 +22,7 @@ Tampermonkey & Greasemonkey are browser extensions that enable you to download u
 
 Click on a script below to install it:
 
-1. **Move IMDB Ratings to the Bottom of the Page**
+1. **Move IMDB Ratings to the Bottom of the Page(https://github.com/evkaw/userscripts/blob/main/Move%20IMDB%20Ratings%20to%20the%20Bottom%20of%20the%20Page.js)**
    - Moves the IMDB score to the bottom of the page. Stop judging movies and/or TV shows by their ratings!
 
 2. **Go Fullscreen on YouTube Automatically**
