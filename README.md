@@ -34,7 +34,7 @@ Click on a script below to install it:
 4. **Hide Mouse when Idle**
     - Hides your cursor when a given amount of time passes while your mouse is idle on any website. Get rid of a simple distraction if you have no reason to be using it. Useful for reading, watching content, etc.
 
-5. **Disable Mouse Inputs for BilingualMangaa**
+5. **Disable Mouse Inputs for BilingualManga**
     - Disabling mouse inpuits except if hovering over OCR text. Essential to not accidentally changing pages on an accidental click.
 
 
