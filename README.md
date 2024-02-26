@@ -35,7 +35,7 @@ Click on a script below to install it:
     - Hides your cursor when a given amount of time passes while your mouse is idle on any website. Get rid of a simple distraction if you have no reason to be using it. Useful for reading, watching content, etc.
 
 5. **[`Disable Mouse Inputs for BilingualManga`](https://github.com/evkaw/userscripts/blob/main/Disable%20Mouse%20Inputs%20for%20BilingualManga.js)**
-    - Disabling mouse inpuits except if hovering over OCR text. Essential to not accidentally changing pages on an accidental click.
+    - Disabling mouse inputs except if hovering over OCR text. Essential to not accidentally changing pages on an accidental click.
 
 
 Enjoy the enhanced browsing experience with these userscripts! 🚀
